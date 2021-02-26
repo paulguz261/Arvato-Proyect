@@ -18,19 +18,12 @@ in this section a Kmeans algorithm will be applied to get the segmentation on th
 In this section the information of the marketing campaign provided by ARvato will be used to develop the model. Also all the steps and processes made in the first section will be used, also the output of the second section will be used
 
 #### Technologies
-The proyect uses  
+It uses standard python libraries,
+but specifically scikit-learn(0.24.1) and all its dependencies
 
 
-#### Model Training
-The model steps are the following
-1. applies text transformation to the messages, to tokenize and find tfidf
-
-    1.1. Applies a Count of the terms in the message by CountVectorizer
-    
-    1.2. Transform a count matrix to a tf-idf representation 
-2. perform a grid search on Random Forest and a MultiOutputClassifier to train model
-
-### Instructions:
+#### Process
+all the process is explained in the folowing [post](https://medium.com/p/b44979683ed/edit)
 
 
 ### Files:
