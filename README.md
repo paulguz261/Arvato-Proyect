@@ -23,7 +23,7 @@ but specifically scikit-learn(0.24.1) and all its dependencies
 
 
 #### Process
-all the process is explained in the folowing [post](https://medium.com/p/b44979683ed/edit)
+all the process is explained in the folowing [post](https://paulguzcas984.medium.com/customer-segmentation-report-for-arvato-financial-services-b44979683ed)
 
 
 ### Files:
